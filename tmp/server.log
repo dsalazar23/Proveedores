@@ -1,0 +1,101 @@
+exception 'Exception' with message 'Table 'provisioners.provisioners' doesn't exist' in C:\wamp64\www\Proveedores\Config\DataSource\QueryExecutor.class.php:34
+Stack trace:
+#0 C:\wamp64\www\Proveedores\DataAccess\DAO\mysql\ProvisionerMsDAO.class.php(22): QueryExecutor::execute(Object(SqlQuery))
+#1 C:\wamp64\www\Proveedores\Controller\Provisioner.controller.php(24): ProvisionerMsDAO->queryAllDetails()
+#2 C:\wamp64\www\Proveedores\Controller\Controller.php(36): ProvisionerController->DefaultView()
+#3 C:\wamp64\www\Proveedores\Controller\Home.controller.php(28): Controller->__construct()
+#4 C:\wamp64\www\Proveedores\Controller\Controller.php(36): HomeController->DefaultView()
+#5 C:\wamp64\www\Proveedores\index.php(59) : eval()'d code(1): Controller->__construct()
+#6 C:\wamp64\www\Proveedores\index.php(59): eval()
+#7 {main}
+exception 'Exception' with message 'Table 'provisioners.provisioners' doesn't exist' in C:\wamp64\www\Proveedores\Config\DataSource\QueryExecutor.class.php:34
+Stack trace:
+#0 C:\wamp64\www\Proveedores\DataAccess\DAO\mysql\ProvisionerMsDAO.class.php(22): QueryExecutor::execute(Object(SqlQuery))
+#1 C:\wamp64\www\Proveedores\Controller\Provisioner.controller.php(24): ProvisionerMsDAO->queryAllDetails()
+#2 C:\wamp64\www\Proveedores\Controller\Controller.php(36): ProvisionerController->DefaultView()
+#3 C:\wamp64\www\Proveedores\Controller\Home.controller.php(28): Controller->__construct()
+#4 C:\wamp64\www\Proveedores\Controller\Controller.php(36): HomeController->DefaultView()
+#5 C:\wamp64\www\Proveedores\index.php(59) : eval()'d code(1): Controller->__construct()
+#6 C:\wamp64\www\Proveedores\index.php(59): eval()
+#7 {main}
+exception 'Exception' with message 'Table 'provisioners.provisioners' doesn't exist' in C:\wamp64\www\Proveedores\Config\DataSource\QueryExecutor.class.php:34
+Stack trace:
+#0 C:\wamp64\www\Proveedores\DataAccess\DAO\mysql\ProvisionerMsDAO.class.php(22): QueryExecutor::execute(Object(SqlQuery))
+#1 C:\wamp64\www\Proveedores\Controller\Provisioner.controller.php(24): ProvisionerMsDAO->queryAllDetails()
+#2 C:\wamp64\www\Proveedores\Controller\Controller.php(36): ProvisionerController->DefaultView()
+#3 C:\wamp64\www\Proveedores\Controller\Home.controller.php(28): Controller->__construct()
+#4 C:\wamp64\www\Proveedores\Controller\Controller.php(36): HomeController->DefaultView()
+#5 C:\wamp64\www\Proveedores\index.php(59) : eval()'d code(1): Controller->__construct()
+#6 C:\wamp64\www\Proveedores\index.php(59): eval()
+#7 {main}
+exception 'Exception' with message 'Table 'provisioners.provisioners' doesn't exist' in C:\wamp64\www\Proveedores\Config\DataSource\QueryExecutor.class.php:34
+Stack trace:
+#0 C:\wamp64\www\Proveedores\DataAccess\DAO\mysql\ProvisionerMsDAO.class.php(22): QueryExecutor::execute(Object(SqlQuery))
+#1 C:\wamp64\www\Proveedores\Controller\Provisioner.controller.php(24): ProvisionerMsDAO->queryAllDetails()
+#2 C:\wamp64\www\Proveedores\Controller\Controller.php(36): ProvisionerController->DefaultView()
+#3 C:\wamp64\www\Proveedores\Controller\Home.controller.php(28): Controller->__construct()
+#4 C:\wamp64\www\Proveedores\Controller\Controller.php(36): HomeController->DefaultView()
+#5 C:\wamp64\www\Proveedores\index.php(59) : eval()'d code(1): Controller->__construct()
+#6 C:\wamp64\www\Proveedores\index.php(59): eval()
+#7 {main}
+exception 'Exception' with message 'Table 'provisioners.provisioners' doesn't exist' in C:\wamp64\www\Proveedores\Config\DataSource\QueryExecutor.class.php:34
+Stack trace:
+#0 C:\wamp64\www\Proveedores\DataAccess\DAO\mysql\ProvisionerMsDAO.class.php(22): QueryExecutor::execute(Object(SqlQuery))
+#1 C:\wamp64\www\Proveedores\Controller\Provisioner.controller.php(24): ProvisionerMsDAO->queryAllDetails()
+#2 C:\wamp64\www\Proveedores\Controller\Controller.php(36): ProvisionerController->DefaultView()
+#3 C:\wamp64\www\Proveedores\Controller\Home.controller.php(28): Controller->__construct()
+#4 C:\wamp64\www\Proveedores\Controller\Controller.php(36): HomeController->DefaultView()
+#5 C:\wamp64\www\Proveedores\index.php(59) : eval()'d code(1): Controller->__construct()
+#6 C:\wamp64\www\Proveedores\index.php(59): eval()
+#7 {main}
+exception 'Exception' with message 'Table 'provisioners.provisioners' doesn't exist' in C:\wamp64\www\Proveedores\Config\DataSource\QueryExecutor.class.php:34
+Stack trace:
+#0 C:\wamp64\www\Proveedores\DataAccess\DAO\mysql\ProvisionerMsDAO.class.php(22): QueryExecutor::execute(Object(SqlQuery))
+#1 C:\wamp64\www\Proveedores\Controller\Provisioner.controller.php(24): ProvisionerMsDAO->queryAllDetails()
+#2 C:\wamp64\www\Proveedores\Controller\Controller.php(36): ProvisionerController->DefaultView()
+#3 C:\wamp64\www\Proveedores\Controller\Home.controller.php(28): Controller->__construct()
+#4 C:\wamp64\www\Proveedores\Controller\Controller.php(36): HomeController->DefaultView()
+#5 C:\wamp64\www\Proveedores\index.php(59) : eval()'d code(1): Controller->__construct()
+#6 C:\wamp64\www\Proveedores\index.php(59): eval()
+#7 {main}
+exception 'Exception' with message 'Table 'provisioners.provisioners' doesn't exist' in C:\wamp64\www\Proveedores\Config\DataSource\QueryExecutor.class.php:34
+Stack trace:
+#0 C:\wamp64\www\Proveedores\DataAccess\DAO\mysql\ProvisionerMsDAO.class.php(22): QueryExecutor::execute(Object(SqlQuery))
+#1 C:\wamp64\www\Proveedores\Controller\Provisioner.controller.php(24): ProvisionerMsDAO->queryAllDetails()
+#2 C:\wamp64\www\Proveedores\Controller\Controller.php(36): ProvisionerController->DefaultView()
+#3 C:\wamp64\www\Proveedores\Controller\Home.controller.php(28): Controller->__construct()
+#4 C:\wamp64\www\Proveedores\Controller\Controller.php(36): HomeController->DefaultView()
+#5 C:\wamp64\www\Proveedores\index.php(59) : eval()'d code(1): Controller->__construct()
+#6 C:\wamp64\www\Proveedores\index.php(59): eval()
+#7 {main}
+exception 'Exception' with message 'Table 'provisioners.provisioners' doesn't exist' in C:\wamp64\www\Proveedores\Config\DataSource\QueryExecutor.class.php:34
+Stack trace:
+#0 C:\wamp64\www\Proveedores\DataAccess\DAO\mysql\ProvisionerMsDAO.class.php(22): QueryExecutor::execute(Object(SqlQuery))
+#1 C:\wamp64\www\Proveedores\Controller\Provisioner.controller.php(24): ProvisionerMsDAO->queryAllDetails()
+#2 C:\wamp64\www\Proveedores\Controller\Controller.php(36): ProvisionerController->DefaultView()
+#3 C:\wamp64\www\Proveedores\Controller\Home.controller.php(28): Controller->__construct()
+#4 C:\wamp64\www\Proveedores\Controller\Controller.php(36): HomeController->DefaultView()
+#5 C:\wamp64\www\Proveedores\index.php(59) : eval()'d code(1): Controller->__construct()
+#6 C:\wamp64\www\Proveedores\index.php(59): eval()
+#7 {main}
+exception 'Exception' with message 'Table 'provisioners.provisioners' doesn't exist' in C:\wamp64\www\Proveedores\Config\DataSource\QueryExecutor.class.php:34
+Stack trace:
+#0 C:\wamp64\www\Proveedores\DataAccess\DAO\mysql\ProvisionerMsDAO.class.php(22): QueryExecutor::execute(Object(SqlQuery))
+#1 C:\wamp64\www\Proveedores\Controller\Provisioner.controller.php(24): ProvisionerMsDAO->queryAllDetails()
+#2 C:\wamp64\www\Proveedores\Controller\Controller.php(36): ProvisionerController->DefaultView()
+#3 C:\wamp64\www\Proveedores\Controller\Home.controller.php(28): Controller->__construct()
+#4 C:\wamp64\www\Proveedores\Controller\Controller.php(36): HomeController->DefaultView()
+#5 C:\wamp64\www\Proveedores\index.php(59) : eval()'d code(1): Controller->__construct()
+#6 C:\wamp64\www\Proveedores\index.php(59): eval()
+#7 {main}
+exception 'Exception' with message 'You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM prv_provisioners
+				INNER JOIN prv_actions ON prv_provisioners.id = prv_a' at line 2' in C:\wamp64\www\Proveedores\Config\DataSource\QueryExecutor.class.php:34
+Stack trace:
+#0 C:\wamp64\www\Proveedores\DataAccess\DAO\mysql\ProvisionerMsDAO.class.php(22): QueryExecutor::execute(Object(SqlQuery))
+#1 C:\wamp64\www\Proveedores\Controller\Provisioner.controller.php(24): ProvisionerMsDAO->queryAllDetails()
+#2 C:\wamp64\www\Proveedores\Controller\Controller.php(36): ProvisionerController->DefaultView()
+#3 C:\wamp64\www\Proveedores\Controller\Home.controller.php(28): Controller->__construct()
+#4 C:\wamp64\www\Proveedores\Controller\Controller.php(36): HomeController->DefaultView()
+#5 C:\wamp64\www\Proveedores\index.php(59) : eval()'d code(1): Controller->__construct()
+#6 C:\wamp64\www\Proveedores\index.php(59): eval()
+#7 {main}
